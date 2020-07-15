@@ -9,7 +9,7 @@
 `@gact/css` is a very fast, complete CSS-in-JS solution
 
 `@gact/css` provides direct support for:
-  - infinitely nested rules sets
+  - infinite nesting
   - pseduo-classes and pseduo-elements
   - `@keyframes`
   - `@media`
